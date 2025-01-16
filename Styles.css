@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul li {
+    margin-right: 20px;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ li {
+    margin-bottom: 20px;
+}
+h3 {
+    margin-top: 0;
+}
+
+#contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+ input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+ input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+ border: none;}
+
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.services-container {
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 20px;
+	background-color:sky blue;
+	border: 1px solid #ddd;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.service-card {
+	background-color: #fff;
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1p;}
+	
+#Ian{
+  margin:20px;
+  border:10px;
+}
+#Me{
+  background-image:url(content://com.android.externalstorage.documents/tree/primary%3Aclipboard%20folder::primary:clipboard folder/Images/images (1).jpeg);
+  background-size: cover;
+  background-position: center;
+  
+} 
+form{
+  display:grid;
+  place-items:center;
+  height:100hv;
+  
+}
+.about {
+  padding: 100px 0;
+  background-color: #f7f7f7;
+}
+
+.about h2 {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.about img {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.about li {
+  margin-bottom: 10px;
+}
+
+#contact {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
